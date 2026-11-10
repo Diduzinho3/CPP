@@ -1,0 +1,4 @@
+# Executaveis criados ao compilar os exemplos
+*.out
+*.exe
+/build/
